@@ -35,11 +35,13 @@
     "babel-core": "^6.26.3",
     "babel-preset-airbnb": "^2.5.3",
     "bootstrap": "^3.4.1",
+    "dotenv": "^8.2.0",
     "jsdom": "^9.9.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "^1.0.7",
     "react-test-renderer": "^16.0.0",
+    "uuid": "^7.0.2",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^3.1.11"
   },
